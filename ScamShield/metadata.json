@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield",
+  "description": "One scam message, caught before the click. Helps Indian UPI and bank users detect scam messages, collect requests, and suspicious links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
