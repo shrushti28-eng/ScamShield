@@ -1,4 +1,4 @@
-# ScamShield 🛡️
+# ScamShield  🛡️
 
 ### AI-Powered Online Scam Detection System
 
