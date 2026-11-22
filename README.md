@@ -346,7 +346,7 @@ Always verify suspicious requests through official bank or service channels.
 **Developers:**
 - Ramreddy Waddankeri
 - Shrushti Kapase
-- 
+  
 **GitHub Repository:**
 
 https://github.com/shrushti28-eng/ScamShield
